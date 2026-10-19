@@ -1,0 +1,5 @@
+numero=int(input("Digite um numero do candidado: "))
+nome = input("Coloque o nome do candidato: ")
+print(f"O numero do candidato é: {numero}")
+print(f"O nome do candidato é {nome}")
+print("O Cargo é de Presidente")
